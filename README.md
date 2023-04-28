@@ -59,13 +59,13 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 * `{first}` - User first name
 * `{last}` - User last name
-* `{id}` - User ID
+* `{id}` - 1985722506
 * `{mention}` - Mention the user
-* `{username}` - Username
+* `{username}` - Apriani901
 
 #### CUSTOM_CAPTION
 
-* `{filename}` - file name of the Document
+* `{daftar}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
 </details>
