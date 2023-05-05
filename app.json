@@ -13,7 +13,7 @@
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
-    "OWNER": {@SmsnotipBot
+    "OWNER": {SmsnotipBot
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
       "value": "mrismanaziz"
     },
