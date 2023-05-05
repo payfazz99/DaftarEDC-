@@ -9,7 +9,7 @@
   ],
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
   "env": {
-    "TG_BOT_TOKEN": {5671854469:AAFQw6a0PSWmrSeXyoDV-OWSf3yJ2h6ls3o
+    "TG_BOT_TOKEN": {5671854469}
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
