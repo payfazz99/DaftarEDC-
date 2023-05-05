@@ -9,23 +9,23 @@
   ],
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
   "env": {
-    "TG_BOT_TOKEN": {
+    "TG_BOT_TOKEN": {5671854469:AAFQw6a0PSWmrSeXyoDV-OWSf3yJ2h6ls3o
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
-    "OWNER": {
+    "OWNER": {@SmsnotipBot
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
       "value": "mrismanaziz"
     },
-    "ADMINS": {
+    "ADMINS": {12345678:ABCDEfgHIDUROVjkLmNOPQRSTUvw-cdEfgHI'
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
       "value": "0"
     },
-    "APP_ID": {
+    "APP_ID": {1235
       "description": "Dapatkan APP ID di web my.telegram.org",
       "value": "6"
     },
-    "API_HASH": {
+    "API_HASH": {"0123456789abcdef0123456789abcdef"
       "description": "Dapatkan API HASH di web my.telegram.org",
       "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
     },
