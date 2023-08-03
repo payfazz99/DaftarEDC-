@@ -57,7 +57,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
 
-* `{first}` - User first name
+* `{first}` - User first name 
 * `{last}` - User last name
 * `{id}` - 1985722506
 * `{mention}` - Mention the user
