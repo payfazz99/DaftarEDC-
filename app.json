@@ -13,7 +13,7 @@
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
-    "OWNER": {@Cs_DesiNitaSari2}
+    "OWNER": {Cs_DesiNitaSari2}
       "description": "Masukan Username Telegram untuk Owner BOT [poto57bot]",
       "value": "mrismanaziz"
     },
@@ -29,7 +29,7 @@
       "description": "Dapatkan API HASH di web my.telegram.org",
       "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
     },
-    "CHANNEL_ID": {@notipsms}
+    "CHANNEL_ID": {notipsms}
       "description": "Masukan ID Channel Untuk [Channel Database]",
       "value": "-100"
     },
