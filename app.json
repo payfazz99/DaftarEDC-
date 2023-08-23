@@ -1,5 +1,5 @@
 {
-  "name": "File Sharing Man",
+  "name": "Poto Barang",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "stack": "heroku-22",
   "keywords": [
@@ -13,15 +13,15 @@
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
-    "OWNER": {smsnotipBot
-      "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
+    "OWNER": {@Poto57bot}
+      "description": "Masukan Username Telegram untuk Owner BOT [poto57bot]",
       "value": "mrismanaziz"
     },
-    "ADMINS"5671854469
+    "ADMINS"1985722506
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
       "value": "0"
     },
-    "APP_ID": {1235
+    "APP_ID": {123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11}
       "description": "Dapatkan APP ID di web my.telegram.org",
       "value": "6"
     },
@@ -29,7 +29,7 @@
       "description": "Dapatkan API HASH di web my.telegram.org",
       "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
     },
-    "CHANNEL_ID": {
+    "CHANNEL_ID": {https://t.me/notipsms}
       "description": "Masukan ID Channel Untuk [Channel Database]",
       "value": "-100"
     },
